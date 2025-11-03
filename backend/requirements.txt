@@ -1,0 +1,8 @@
+django
+djangorestframework
+djangorestframework-simplejwt
+bcrypt
+python-dotenv
+requests
+Pillow
+django-cors-headers
